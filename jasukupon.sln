@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jasukupon", "jasukupon\jasukupon.csproj", "{9CE3C81B-E205-41CB-B30D-8F21EE528CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webUtils", "webUtils\webUtils.csproj", "{C7B864D9-F822-4D07-BECF-635CF62BA8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE3C81B-E205-41CB-B30D-8F21EE528CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE3C81B-E205-41CB-B30D-8F21EE528CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE3C81B-E205-41CB-B30D-8F21EE528CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE3C81B-E205-41CB-B30D-8F21EE528CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B864D9-F822-4D07-BECF-635CF62BA8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B864D9-F822-4D07-BECF-635CF62BA8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B864D9-F822-4D07-BECF-635CF62BA8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B864D9-F822-4D07-BECF-635CF62BA8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+g:\my documents\visual studio 2010\Projects\jasukupon\jasukupon\bin\jasukupon.dll
+g:\my documents\visual studio 2010\Projects\jasukupon\jasukupon\bin\jasukupon.pdb
+g:\my documents\visual studio 2010\Projects\jasukupon\jasukupon\bin\webUtils.dll
+g:\my documents\visual studio 2010\Projects\jasukupon\jasukupon\bin\webUtils.pdb
+g:\my documents\visual studio 2010\Projects\jasukupon\jasukupon\obj\Debug\jasukupon.csprojResolveAssemblyReference.cache
+g:\my documents\visual studio 2010\Projects\jasukupon\jasukupon\obj\Debug\jasukupon.dll
+g:\my documents\visual studio 2010\Projects\jasukupon\jasukupon\obj\Debug\jasukupon.pdb
